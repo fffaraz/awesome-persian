@@ -33,3 +33,4 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [Jalali-GCal](https://github.com/behnam/jalali-gcal) - Jalali/Persian Calendar extension (userscript) for Google Calendar web interface.
 * [php-gd-farsi](https://github.com/IranPhpMaster/php-gd-farsi) - Farsi support of PHP GD library for generating 2D graphic on web.
 * [fonts-farsiweb](https://github.com/behnam/fonts-farsiweb) - https://github.com/behnam/fonts-farsiweb.
+* [xepersian](https://github.com/vafa/xepersian) - Persian for LaTeX, using XeTeX engine.
