@@ -43,6 +43,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 
 * [persian.js](https://github.com/usablica/persian.js) - A simple library for Persian language localization.
 * [PersianOcr](https://github.com/reza1615/PersianOcr) - Open source Farsi OCR.
+* [Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - Persian Spell Checker.
 * [DroidPersianCalendar](https://github.com/ebraminio/DroidPersianCalendar) - Android Persian Calendar.
 * [css-persian](https://github.com/intuxicated/css-persian) - Persian CSS Fonts.
 * [persianParser](https://github.com/sallar/persianParser) - A javascript library to convert persian text for using on iOS/Android browsers.
