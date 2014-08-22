@@ -41,6 +41,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
 
+* [persian.py](https://github.com/itmard/persian.py) - A simple Python library for Persian language localization.
 * [persian.js](https://github.com/usablica/persian.js) - A simple library for Persian language localization.
 * [PersianOcr](https://github.com/reza1615/PersianOcr) - Open source Farsi OCR.
 * [Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - Persian Spell Checker.
