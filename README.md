@@ -37,6 +37,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [jdate](https://github.com/eAmin/jdate) - A JavaScript like Jalali date & time library for Browsers & NodeJS.
 * [JalaliCalendar](https://github.com/amirmehdizadeh/JalaliCalendar) - A concrete subclass of Calendar of Java programming language and provides the standard calendar system used by Persians.
 * [jcal](https://github.com/ashkang/jcal) - a small and portable free software library to manipulate date and time in Jalali calendar system.
+* [wp-jalali](https://github.com/wp-persian/wp-jalali)
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
