@@ -1,0 +1,14 @@
+https://github.com/mojtaba-khallash/NHazm
+https://github.com/mojtaba-khallash/JHazm
+
+https://speakerdeck.com/nournia/moshabehatyab
+
+https://github.com/aziz/virastar
+
+Persian Sentence Segmenter and Tokenizer: SeTPer
+http://stp.lingfil.uu.se/~mojgan/setper.html
+
+http://sourceforge.net/projects/perstem/
+
+http://ece.ut.ac.ir/DBRG/bijankhan/
+
