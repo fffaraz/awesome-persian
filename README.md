@@ -57,3 +57,5 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [fonts-farsiweb](https://github.com/behnam/fonts-farsiweb) - https://github.com/behnam/fonts-farsiweb.
 * [xepersian](https://github.com/vafa/xepersian) - Persian for LaTeX, using XeTeX engine.
 * [persianParser.js](https://github.com/sallar/persianParser) - A javascript library to convert persian text for using on iOS/Android browsers.
+* [farsiNLPTools](https://github.com/wfeely/farsiNLPTools) - Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
+* [hazm](https://github.com/sobhe/hazm) - Python library for digesting Persian text.
