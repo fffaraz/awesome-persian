@@ -38,6 +38,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [JalaliCalendar](https://github.com/amirmehdizadeh/JalaliCalendar) - A concrete subclass of Calendar of Java programming language and provides the standard calendar system used by Persians.
 * [jcal](https://github.com/ashkang/jcal) - a small and portable free software library to manipulate date and time in Jalali calendar system.
 * [wp-jalali](https://github.com/wp-persian/wp-jalali)
+* [php-jalali-extension](https://github.com/mohebifar/php-jalali-extension) - A php extension for Jalali dates.
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
@@ -59,3 +60,4 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [persianParser.js](https://github.com/sallar/persianParser) - A javascript library to convert persian text for using on iOS/Android browsers.
 * [farsiNLPTools](https://github.com/wfeely/farsiNLPTools) - Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
 * [hazm](https://github.com/sobhe/hazm) - Python library for digesting Persian text.
+* [angular-persian-tools](https://github.com/mohebifar/angular-persian-tools) - Persian tools for angular.js
