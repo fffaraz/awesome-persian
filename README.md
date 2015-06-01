@@ -39,6 +39,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [jcal](https://github.com/ashkang/jcal) - a small and portable free software library to manipulate date and time in Jalali calendar system.
 * [wp-jalali](https://github.com/wp-persian/wp-jalali)
 * [php-jalali-extension](https://github.com/mohebifar/php-jalali-extension) - A php extension for Jalali dates.
+* [parsi-date](https://github.com/hzamani/parsi-date) - Solar Hijri (Jalali, Persian) date library for Ruby.
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
@@ -49,6 +50,8 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - Persian Spell Checker.
 * [DroidPersianCalendar](https://github.com/ebraminio/DroidPersianCalendar) - Android Persian Calendar.
 * [css-persian](https://github.com/intuxicated/css-persian) - Persian CSS Fonts.
+* [PersianChar](https://github.com/intuxicated/PersianChar) - Persian Char Conversion.
+* [sfPersianToolsBundle](https://github.com/intuxicated/sfPersianToolsBundle) - Persian Tools for Symfony 2.
 * [persianParser](https://github.com/sallar/persianParser) - A javascript library to convert persian text for using on iOS/Android browsers.
 * [Persian-HIG](https://github.com/shervinafshar/Persian-HIG) - Persian Graphical User Interface Specifications and Guidelines.
 * [persian-fonts-linux](https://github.com/fzerorubigd/persian-fonts-linux) - Persian fonts installer for linux.
