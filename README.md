@@ -66,3 +66,4 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [angular-persian-tools](https://github.com/mohebifar/angular-persian-tools) - Persian tools for angular.js
 * [Bersam/persiantools](https://github.com/Bersam/persiantools) - Persian text library.
 * [persianjs-handlebars-plugin](https://github.com/MBehtemam/persianjs-handlebars-plugin) Persianjs HandleBars Plugin.
+* [fardis](https://github.com/afsharm/fardis) Know more about characters and their Unicode info. It is also able to read numbers in Persian (audio).
