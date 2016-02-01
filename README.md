@@ -40,6 +40,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [wp-jalali](https://github.com/wp-persian/wp-jalali)
 * [php-jalali-extension](https://github.com/mohebifar/php-jalali-extension) - A php extension for Jalali dates.
 * [parsi-date](https://github.com/hzamani/parsi-date) - Solar Hijri (Jalali, Persian) date library for Ruby.
+* [go-persian-calendar](https://github.com/yaa110/go-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Go (golang).
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
