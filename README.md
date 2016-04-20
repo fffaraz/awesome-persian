@@ -68,3 +68,4 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [Bersam/persiantools](https://github.com/Bersam/persiantools) - Persian text library.
 * [persianjs-handlebars-plugin](https://github.com/MBehtemam/persianjs-handlebars-plugin) Persianjs HandleBars Plugin.
 * [fardis](https://github.com/afsharm/fardis) Know more about characters and their Unicode info. It is also able to read numbers in Persian (audio).
+* [rtlmd](https://github.com/dariubs/rtlmd) rtl markdown editor.
