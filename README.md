@@ -21,6 +21,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 *Persian and Gregorian Date Converter*
 
 * [persianDatepicker](https://github.com/behzadi/persianDatepicker) - A lightweight jQuery plugin that select persian(jalali) date with selectable years and months and other options.
+* [PersianDateTime](http://persiandatetime.codeplex.com/) - C# Jalali Calendar that can be used instead of System.DateTime structure.
 * [jalalidate](https://github.com/aziz/jalalidate) - A library for working with Jalali Calendar (a.k.a Persian Calendar).
 * [Jalali.py](https://github.com/mjnaderi/Jalali.py) - A simple Python library for converting between Persian date and Gregorian date.
 * [jdf.php](http://jdf.scr.ir/) - jalali_to_gregorian, gregorian_to_jalali.
