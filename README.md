@@ -7,6 +7,9 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 	- [Fonts](#fonts)
 	- [Jalali Date](#jalali-date)
 	- [Miscellaneous](#miscellaneous)
+- [Categorized by Programming Language](#Categorized-by-Programming-Language)
+  - [C#](#C&#35)
+  - [Ruby](#ruby)
 
 ## Frameworks
 *Web Frameworks with native support for RTL languages*
@@ -65,9 +68,18 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [persianParser.js](https://github.com/sallar/persianParser) - A javascript library to convert persian text for using on iOS/Android browsers.
 * [farsiNLPTools](https://github.com/wfeely/farsiNLPTools) - Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
 * [hazm](https://github.com/sobhe/hazm) - Python library for digesting Persian text.
-* [NHazm](https://github.com/mojtaba-khallash/NHazm) - C# library for digesting Persian texts
 * [angular-persian-tools](https://github.com/mohebifar/angular-persian-tools) - Persian tools for angular.js
 * [Bersam/persiantools](https://github.com/Bersam/persiantools) - Persian text library.
 * [persianjs-handlebars-plugin](https://github.com/MBehtemam/persianjs-handlebars-plugin) Persianjs HandleBars Plugin.
-* [fardis](https://github.com/afsharm/fardis) Know more about characters and their Unicode info. It is also able to read numbers in Persian (audio).
 * [rtlmd](https://github.com/dariubs/rtlmd) rtl markdown editor.
+
+## Categorized by Programming Language
+
+### C&#35;
+* [fardis](https://github.com/afsharm/fardis) Know more about characters and their Unicode info. It is also able to read numbers in Persian (audio).
+* [NHazm](https://github.com/mojtaba-khallash/NHazm) - C# library for digesting Persian texts.
+* [Virastyar](http://www.virastyar.ir/development) - A collection of libraries for Persian text processing (Spell Checking, Purification, Punctuation Correction, Persian Character Standardization, Pinglish Conversion & ...)
+
+### Ruby
+* [farsifu](https://github.com/aziz/farsifu) - Toolbox for developing ruby applications in Persian.
+* [virastar](https://github.com/aziz/virastar) - Cleaning up & normalizing Persian text.
