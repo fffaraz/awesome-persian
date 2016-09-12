@@ -7,8 +7,8 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 	- [Fonts](#fonts)
 	- [Jalali Date](#jalali-date)
 	- [Miscellaneous](#miscellaneous)
-- [Categorized by Programming Language](#Categorized-by-Programming-Language)
-  - [C#](#C&#35)
+- [Categorized by Programming Language](#categorized-by-programming-language)
+  - [C#](#csharp)
   - [Ruby](#ruby)
 
 ## Frameworks
@@ -75,7 +75,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 
 ## Categorized by Programming Language
 
-### C&#35;
+### <a name="csharp"/>C#</a>
 * [fardis](https://github.com/afsharm/fardis) Know more about characters and their Unicode info. It is also able to read numbers in Persian (audio).
 * [NHazm](https://github.com/mojtaba-khallash/NHazm) - C# library for digesting Persian texts.
 * [Virastyar](http://www.virastyar.ir/development) - A collection of libraries for Persian text processing (Spell Checking, Purification, Punctuation Correction, Persian Character Standardization, Pinglish Conversion & ...)
