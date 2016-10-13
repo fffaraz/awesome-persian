@@ -8,6 +8,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 	- [Jalali Date](#jalali-date)
 	- [Miscellaneous](#miscellaneous)
   	- [C#](#csharp)
+	- [JavaScript](#javascript)
   	- [Ruby](#ruby)
 
 ## Frameworks
@@ -49,14 +50,12 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
 
 * [persian.py](https://github.com/itmard/persian.py) - A simple Python library for Persian language localization.
-* [persian.js](https://github.com/usablica/persian.js) - A simple library for Persian language localization.
 * [PersianOcr](https://github.com/reza1615/PersianOcr) - Open source Farsi OCR.
 * [Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - Persian Spell Checker.
 * [DroidPersianCalendar](https://github.com/ebraminio/DroidPersianCalendar) - Android Persian Calendar.
 * [css-persian](https://github.com/intuxicated/css-persian) - Persian CSS Fonts.
 * [PersianChar](https://github.com/intuxicated/PersianChar) - Persian Char Conversion.
 * [sfPersianToolsBundle](https://github.com/intuxicated/sfPersianToolsBundle) - Persian Tools for Symfony 2.
-* [persianParser](https://github.com/sallar/persianParser) - A javascript library to convert persian text for using on iOS/Android browsers.
 * [Persian-HIG](https://github.com/shervinafshar/Persian-HIG) - Persian Graphical User Interface Specifications and Guidelines.
 * [persian-fonts-linux](https://github.com/fzerorubigd/persian-fonts-linux) - Persian fonts installer for linux.
 * [PersianLiteration](https://github.com/masihyeganeh/PersianLiteration) - Converts Finglish texts into Persian.
@@ -64,7 +63,6 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [php-gd-farsi](https://github.com/IranPhpMaster/php-gd-farsi) - Farsi support of PHP GD library for generating 2D graphic on web.
 * [fonts-farsiweb](https://github.com/behnam/fonts-farsiweb) - https://github.com/behnam/fonts-farsiweb.
 * [xepersian](https://github.com/vafa/xepersian) - Persian for LaTeX, using XeTeX engine.
-* [persianParser.js](https://github.com/sallar/persianParser) - A javascript library to convert persian text for using on iOS/Android browsers.
 * [farsiNLPTools](https://github.com/wfeely/farsiNLPTools) - Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
 * [hazm](https://github.com/sobhe/hazm) - Python library for digesting Persian text.
 * [angular-persian-tools](https://github.com/mohebifar/angular-persian-tools) - Persian tools for angular.js
@@ -76,6 +74,11 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [fardis](https://github.com/afsharm/fardis) Know more about characters and their Unicode info. It is also able to read numbers in Persian (audio).
 * [NHazm](https://github.com/mojtaba-khallash/NHazm) - C# library for digesting Persian texts.
 * [Virastyar](http://www.virastyar.ir/development) - A collection of libraries for Persian text processing (Spell Checking, Purification, Punctuation Correction, Persian Character Standardization, Pinglish Conversion & ...)
+
+## JavaScript
+* [persian.js](https://github.com/usablica/persian.js) - A simple library for Persian language localization.
+* [persianParser.js](https://github.com/sallar/persianParser) - A javascript library to convert persian text for using on iOS/Android browsers.
+* [wordifyfa](https://github.com/SalmanAA/wordifyfa) - Convert numbers into Persian words.
 
 ## Ruby
 * [farsifu](https://github.com/aziz/farsifu) - Toolbox for developing ruby applications in Persian.
