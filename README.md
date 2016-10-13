@@ -7,9 +7,8 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 	- [Fonts](#fonts)
 	- [Jalali Date](#jalali-date)
 	- [Miscellaneous](#miscellaneous)
-- [Categorized by Programming Language](#categorized-by-programming-language)
-  - [C#](#csharp)
-  - [Ruby](#ruby)
+  	- [C#](#csharp)
+  	- [Ruby](#ruby)
 
 ## Frameworks
 *Web Frameworks with native support for RTL languages*
@@ -73,13 +72,11 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [persianjs-handlebars-plugin](https://github.com/MBehtemam/persianjs-handlebars-plugin) Persianjs HandleBars Plugin.
 * [rtlmd](https://github.com/dariubs/rtlmd) rtl markdown editor.
 
-## Categorized by Programming Language
-
-### <a name="csharp"/>C#</a>
+## <a name="csharp"/>C#</a>
 * [fardis](https://github.com/afsharm/fardis) Know more about characters and their Unicode info. It is also able to read numbers in Persian (audio).
 * [NHazm](https://github.com/mojtaba-khallash/NHazm) - C# library for digesting Persian texts.
 * [Virastyar](http://www.virastyar.ir/development) - A collection of libraries for Persian text processing (Spell Checking, Purification, Punctuation Correction, Persian Character Standardization, Pinglish Conversion & ...)
 
-### Ruby
+## Ruby
 * [farsifu](https://github.com/aziz/farsifu) - Toolbox for developing ruby applications in Persian.
 * [virastar](https://github.com/aziz/virastar) - Cleaning up & normalizing Persian text.
