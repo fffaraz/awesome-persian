@@ -9,6 +9,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 	- [Miscellaneous](#miscellaneous)
   	- [C#](#csharp)
 	- [JavaScript](#javascript)
+	- [Python](#python)
   	- [Ruby](#ruby)
 
 ## Frameworks
@@ -49,9 +50,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
 
-* [persian.py](https://github.com/itmard/persian.py) - A simple Python library for Persian language localization.
 * [PersianOcr](https://github.com/reza1615/PersianOcr) - Open source Farsi OCR.
-* [Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - Persian Spell Checker.
 * [DroidPersianCalendar](https://github.com/ebraminio/DroidPersianCalendar) - Android Persian Calendar.
 * [css-persian](https://github.com/intuxicated/css-persian) - Persian CSS Fonts.
 * [PersianChar](https://github.com/intuxicated/PersianChar) - Persian Char Conversion.
@@ -79,6 +78,11 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [persian.js](https://github.com/usablica/persian.js) - A simple library for Persian language localization.
 * [persianParser.js](https://github.com/sallar/persianParser) - A javascript library to convert persian text for using on iOS/Android browsers.
 * [wordifyfa](https://github.com/SalmanAA/wordifyfa) - Convert numbers into Persian words.
+
+## Python
+* [number2farsiword](https://github.com/5j9/number2farsiword) - Convert numbers into Persian words.
+* [persian.py](https://github.com/itmard/persian.py) - A simple Python library for Persian language localization.
+* [Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - Persian Spell Checker.
 
 ## Ruby
 * [farsifu](https://github.com/aziz/farsifu) - Toolbox for developing ruby applications in Persian.
