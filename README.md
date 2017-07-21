@@ -78,6 +78,8 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 ## JavaScript
 * [persian.js](https://github.com/usablica/persian.js) - A simple library for Persian language localization.
 * [persianParser.js](https://github.com/sallar/persianParser) - A javascript library to convert persian text for using on iOS/Android browsers.
+* [Tedjs](https://github.com/AML-Project/tedjs) - Easy Element Definer , A Library Oriented Framework To Create DOM With Basic Functions.
+* [ted.aml](https://github.com/AML-Project/tedjs.aml.std) - A Library For Tedjs That Act Like Angularjs And Apml.
 * [wordifyfa](https://github.com/SalmanAA/wordifyfa) - Convert numbers into Persian words.
 
 ## Python
