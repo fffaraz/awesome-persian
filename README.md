@@ -21,6 +21,8 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 ## Fonts
 *Modern persian web fonts*
 
+* [Persian Font Store](https://github.com/font-store) - Font Store is first Font Directore for Persin Type's
+
 ## Jalali Date
 *Persian and Gregorian Date Converter*
 
