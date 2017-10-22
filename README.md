@@ -71,6 +71,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [Bersam/persiantools](https://github.com/Bersam/persiantools) - Persian text library.
 * [persianjs-handlebars-plugin](https://github.com/MBehtemam/persianjs-handlebars-plugin) Persianjs HandleBars Plugin.
 * [rtlmd](https://github.com/dariubs/rtlmd) rtl markdown editor.
+* [persian](https://github.com/mavihq/persian) - Some utilities for Persian language in go.
 
 ## <a name="csharp"/>C#</a>
 * [fardis](https://github.com/afsharm/fardis) Know more about characters and their Unicode info. It is also able to read numbers in Persian (audio).
@@ -92,4 +93,4 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [virastar](https://github.com/aziz/virastar) - Cleaning up & normalizing Persian text.
 
 ## Go (Golang)
-[persian](https://github.com/mavihq/persian) - Some utilities for Persian language in go.
+* [persian](https://github.com/mavihq/persian) - Some utilities for Persian language in go.
