@@ -11,6 +11,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 	- [JavaScript](#javascript)
 	- [Python](#python)
   	- [Ruby](#ruby)
+	- [Go](#go)
 
 ## Frameworks
 *Web Frameworks with native support for RTL languages*
@@ -92,5 +93,5 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [farsifu](https://github.com/aziz/farsifu) - Toolbox for developing ruby applications in Persian.
 * [virastar](https://github.com/aziz/virastar) - Cleaning up & normalizing Persian text.
 
-## Go (Golang)
+## Go
 * [persian](https://github.com/mavihq/persian) - Some utilities for Persian language in go.
