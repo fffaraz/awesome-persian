@@ -50,6 +50,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [parsi-date](https://github.com/hzamani/parsi-date) - Solar Hijri (Jalali, Persian) date library for Ruby.
 * [go-persian-calendar](https://github.com/yaa110/go-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Go (golang).
 * [rust-persian-calendar](https://github.com/yaa110/rust-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Rust.
+* [pholiday](https://github.com/shkarimpour/pholiday) - Persian calendar holidays library for javascript.
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
@@ -73,6 +74,8 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [persianjs-handlebars-plugin](https://github.com/MBehtemam/persianjs-handlebars-plugin) Persianjs HandleBars Plugin.
 * [rtlmd](https://github.com/dariubs/rtlmd) rtl markdown editor.
 * [persian](https://github.com/mavihq/persian) - Some utilities for Persian language in go.
+* [pnumber](https://github.com/mavihq/pnumber) - Persian number utilities for javascript.
+* [prial](https://github.com/mavihq/prial) - Currency formating library for javascript.
 
 ## <a name="csharp"/>C#</a>
 * [fardis](https://github.com/afsharm/fardis) Know more about characters and their Unicode info. It is also able to read numbers in Persian (audio).
