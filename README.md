@@ -83,6 +83,9 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [persian.js](https://github.com/usablica/persian.js) - A simple library for Persian language localization.
 * [persianParser.js](https://github.com/sallar/persianParser) - A javascript library to convert persian text for using on iOS/Android browsers.
 * [wordifyfa](https://github.com/SalmanAA/wordifyfa) - Convert numbers into Persian words.
+* [pnumber](https://github.com/mavihq/pnumber) - Persian number utilities for javascript.
+* [pholiday](https://github.com/shkarimpour/pholiday) - Persian calendar holidays library for javascript.
+* [prial](https://github.com/mavihq/prial) - Currency formating library for javascript.
 
 ## Python
 * [number2farsiword](https://github.com/5j9/number2farsiword) - Convert numbers into Persian words.
