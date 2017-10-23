@@ -11,6 +11,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 	- [JavaScript](#javascript)
 	- [Python](#python)
   	- [Ruby](#ruby)
+	- [Go](#go)
 
 ## Frameworks
 *Web Frameworks with native support for RTL languages*
@@ -49,6 +50,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [parsi-date](https://github.com/hzamani/parsi-date) - Solar Hijri (Jalali, Persian) date library for Ruby.
 * [go-persian-calendar](https://github.com/yaa110/go-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Go (golang).
 * [rust-persian-calendar](https://github.com/yaa110/rust-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Rust.
+* [pholiday](https://github.com/shkarimpour/pholiday) - Persian calendar holidays library for javascript.
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
@@ -71,6 +73,9 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [Bersam/persiantools](https://github.com/Bersam/persiantools) - Persian text library.
 * [persianjs-handlebars-plugin](https://github.com/MBehtemam/persianjs-handlebars-plugin) Persianjs HandleBars Plugin.
 * [rtlmd](https://github.com/dariubs/rtlmd) rtl markdown editor.
+* [persian](https://github.com/mavihq/persian) - Some utilities for Persian language in go.
+* [pnumber](https://github.com/mavihq/pnumber) - Persian number utilities for javascript.
+* [prial](https://github.com/mavihq/prial) - Currency formating library for javascript.
 
 ## <a name="csharp"/>C#</a>
 * [fardis](https://github.com/afsharm/fardis) Know more about characters and their Unicode info. It is also able to read numbers in Persian (audio).
@@ -81,6 +86,9 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [persian.js](https://github.com/usablica/persian.js) - A simple library for Persian language localization.
 * [persianParser.js](https://github.com/sallar/persianParser) - A javascript library to convert persian text for using on iOS/Android browsers.
 * [wordifyfa](https://github.com/SalmanAA/wordifyfa) - Convert numbers into Persian words.
+* [pnumber](https://github.com/mavihq/pnumber) - Persian number utilities for javascript.
+* [pholiday](https://github.com/shkarimpour/pholiday) - Persian calendar holidays library for javascript.
+* [prial](https://github.com/mavihq/prial) - Currency formating library for javascript.
 
 ## Python
 * [number2farsiword](https://github.com/5j9/number2farsiword) - Convert numbers into Persian words.
@@ -90,3 +98,6 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 ## Ruby
 * [farsifu](https://github.com/aziz/farsifu) - Toolbox for developing ruby applications in Persian.
 * [virastar](https://github.com/aziz/virastar) - Cleaning up & normalizing Persian text.
+
+## Go
+* [persian](https://github.com/mavihq/persian) - Some utilities for Persian language in go.
