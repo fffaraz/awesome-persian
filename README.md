@@ -16,8 +16,12 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 ## Frameworks
 *Web Frameworks with native support for RTL languages*
 
+* [Jikan CSS Framework](https://GitHub.com/JikanCSS) - A New CSS Framework ...
+
 ## CSS
 *CSS resources that support RTL languages*
+
+* [Jikan CSS Framework](https://GitHub.com/JikanCSS) - A New CSS Framework ...
 
 ## Fonts
 *Modern persian web fonts*
