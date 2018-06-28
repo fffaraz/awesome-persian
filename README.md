@@ -19,6 +19,9 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 ## CSS
 *CSS resources that support RTL languages*
 
+* [Materialize-RTL](https://github.com/MahdiMajidzadeh/materialize-rtl) - RTL version of materializecss framework v1.0.0.
+* [Bootstrap-RTL](https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl) - RTL edition of bootstrap v4 for rtl languages like Farsi and Arabic.
+
 ## Fonts
 *Modern persian web fonts*
 
