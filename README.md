@@ -106,3 +106,4 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 
 ## Go
 * [persian](https://github.com/mavihq/persian) - Some utilities for Persian language in go.
+* [NumberToPersianWords](https://github.com/Navid2zp/NumberToPersianWords) - Turn numbers to Persian words.
