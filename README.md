@@ -74,7 +74,6 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [fonts-farsiweb](https://github.com/behnam/fonts-farsiweb) - https://github.com/behnam/fonts-farsiweb.
 * [xepersian](https://github.com/vafa/xepersian) - Persian for LaTeX, using XeTeX engine.
 * [farsiNLPTools](https://github.com/wfeely/farsiNLPTools) - Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
-* [hazm](https://github.com/sobhe/hazm) - Python library for digesting Persian text.
 * [angular-persian-tools](https://github.com/mohebifar/angular-persian-tools) - Persian tools for angular.js
 * [Bersam/persiantools](https://github.com/Bersam/persiantools) - Persian text library.
 * [persianjs-handlebars-plugin](https://github.com/MBehtemam/persianjs-handlebars-plugin) Persianjs HandleBars Plugin.
@@ -100,6 +99,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [number2farsiword](https://github.com/5j9/number2farsiword) - Convert numbers into Persian words.
 * [persian.py](https://github.com/itmard/persian.py) - A simple Python library for Persian language localization.
 * [Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - Persian Spell Checker.
+* [Hazm](https://github.com/roshan-research/hazm) - Persian NLP Toolkit.
 
 ## Ruby
 * [farsifu](https://github.com/aziz/farsifu) - Toolbox for developing ruby applications in Persian.
